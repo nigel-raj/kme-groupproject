@@ -113,7 +113,7 @@ ui <- dashboardPage(
             width = 12,
             status = "primary",
             solidHeader = TRUE,
-            height = "500px",
+            height = "350px",
             tableOutput("selectionTable"),
             actionButton("clearSelections", "Clear Selections"),
           )
@@ -131,7 +131,7 @@ ui <- dashboardPage(
           width = 13,
           status = "primary",
           solidHeader = TRUE,
-          height = "500px",
+          height = "350px",
           tableOutput("compatibilityTable")
         ),
       ),
