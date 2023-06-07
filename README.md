@@ -2,12 +2,6 @@
 
 The website for the shiny app: https://ahmadwahnan.shinyapps.io/pc-advisory-system-by-nigel/
 
-To run the application locally use:
-
-```r
-shiny::runGitHub(repo = "nigel-raj/pc-advisory-system")
-```
-
 ## How it works
 - Run the code with the correct database config 
 - In the PC Parts page, you need to select one PC part from each category
