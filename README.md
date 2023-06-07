@@ -5,7 +5,7 @@ The website for the shiny app: https://ahmadwahnan.shinyapps.io/pc-advisory-syst
 ## How it works
 - In the PC Parts page, you need to select one PC part from each category
 - Only then the Compatibility table under the Selection page will be generated
-- Benchmarks is calculated using my own formula (esentiallly comparing with other parts of the same type)
+- Benchmarks is calculated by comparing with other parts of the same type
 - Compatibility is implemented based on the report decision rules
 
 ## Decision Rules
