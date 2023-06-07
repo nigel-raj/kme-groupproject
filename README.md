@@ -1,7 +1,12 @@
 # PC Advisory System
 
-To run, create a local database and import the .csv files.
-The names of the tables should be cpu, gpu, storage, ram, motherboard and psu.
+The website for the shiny app: https://ahmadwahnan.shinyapps.io/pc-advisory-system-by-nigel/
+
+To run the application locally use:
+
+```r
+shiny::runGitHub(repo = "nigel-raj/pc-advisory-system")
+```
 
 ## How it works
 - Run the code with the correct database config 
